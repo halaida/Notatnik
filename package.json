@@ -1,0 +1,22 @@
+{
+  "name": "notatnik",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/halaida/Notatnik.git"
+  },
+  "author": "Andrzej Dabrowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/halaida/Notatnik/issues"
+  },
+  "homepage": "https://github.com/halaida/Notatnik#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
